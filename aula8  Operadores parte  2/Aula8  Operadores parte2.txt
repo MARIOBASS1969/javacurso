@@ -1,0 +1,14 @@
+Aula8  Operadores parte2
+-------------------------------------------
+Operadodores Relacionais
+
+>  Maior que    > se transforma 7
+<  Menor que    < se transforma 4
+>= Maior igual
+<= Menor igual
+== Igual
+!= Diferente
+--------------------------------------------
+Resultados booleano retorna true ou false
+
+
